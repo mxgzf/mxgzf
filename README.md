@@ -6,13 +6,13 @@
 
 #### Address
 
-Schöne Aussicht 22
-D-35396 Gießen
+Schöne Aussicht 22<br>
+D-35396 Gießen<br>
 Germany (Europe)
 
 #### Corporate Form
 
-One-man business
+One-man business<br>
 VAT ID DE259953327
 
 #### Latest Stack Overflow Answers
